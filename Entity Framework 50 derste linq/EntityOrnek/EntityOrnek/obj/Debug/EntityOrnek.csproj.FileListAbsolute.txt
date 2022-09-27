@@ -1,0 +1,17 @@
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
+C:\Users\serkan\Documents\GitHub\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form3.resources
